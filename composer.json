@@ -1,5 +1,5 @@
 {
-    "name": "babdev/pagerfanta-bundle",
+    "name": "aleblanc/pagerfanta-bundle",
     "type": "symfony-bundle",
     "description": "Bundle integrating Pagerfanta with Symfony",
     "keywords": ["pagerfanta", "pagination", "symfony"],
